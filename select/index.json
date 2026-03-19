@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BANG BANG BANG",
+  "base_artist": "BIGBANG",
+  "createdAt": "2026-03-19T02:53:11.147266Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bang Bang Bang (feat. MNDR)",
+      "artist": "Mark Ronson feat. The Business Intl & MNDR",
+      "has_synced": true,
+      "path": "select/01_Bang_Bang_Bang_(feat._MNDR)_Mark_Ronson_feat._The_Business_Intl_&_MNDR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bang Bang Bang (Featuring Q-Tip, MNDR)",
+      "artist": "Mark Ronson & The Business Intl.",
+      "has_synced": true,
+      "path": "select/02_Bang_Bang_Bang_(Featuring_Q-Tip,_MNDR)_Mark_Ronson_&_The_Business_Intl..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Selena Gomez & The Scene",
+      "has_synced": true,
+      "path": "select/03_Bang_Bang_Bang_Selena_Gomez_&_The_Scene.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss Bang Bang Bang",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/04_Kiss_Kiss_Kiss_Bang_Bang_Bang_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kiss Kiss Kiss Bang Bang Bang",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "has_synced": true,
+      "path": "select/05_Kiss_Kiss_Kiss_Bang_Bang_Bang_Orchestral_Manoeuvres_In_The_Dark.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Christina Perri",
+      "has_synced": true,
+      "path": "select/06_Bang_Bang_Bang_Christina_Perri.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Christina Perri",
+      "has_synced": true,
+      "path": "select/07_Bang_Bang_Bang_Christina_Perri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bang Bang Bang - 2015 Remastered",
+      "artist": "Tracy Chapman",
+      "has_synced": true,
+      "path": "select/08_Bang_Bang_Bang_-_2015_Remastered_Tracy_Chapman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bang Bang Bang (2015 Remaster)",
+      "artist": "Tracy Chapman",
+      "has_synced": true,
+      "path": "select/09_Bang_Bang_Bang_(2015_Remaster)_Tracy_Chapman.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Yuvan Shankar Raja feat. K.G. Ranjith",
+      "has_synced": true,
+      "path": "select/10_Bang_Bang_Bang_Yuvan_Shankar_Raja_feat._K.G._Ranjith.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Yuvan Shankar Raja",
+      "has_synced": true,
+      "path": "select/11_Bang_Bang_Bang_Yuvan_Shankar_Raja.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Dorothy",
+      "has_synced": true,
+      "path": "select/12_Bang_Bang_Bang_Dorothy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Tracy Chapman",
+      "has_synced": true,
+      "path": "select/13_Bang_Bang_Bang_Tracy_Chapman.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Tracy Chapman",
+      "has_synced": true,
+      "path": "select/14_Bang_Bang_Bang_Tracy_Chapman.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bang Bang Bang (Count & Sinden remix)",
+      "artist": "Mark Ronson & The Business Intl",
+      "has_synced": false,
+      "path": "select/15_Bang_Bang_Bang_(Count_&_Sinden_remix)_Mark_Ronson_&_The_Business_Intl.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bang Bang Bang",
+      "artist": "Mark Ronson & The Business Intl feat. Q-Tip & MNDR",
+      "has_synced": true,
+      "path": "select/16_Bang_Bang_Bang_Mark_Ronson_&_The_Business_Intl_feat._Q-Tip_&_MNDR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BANG BANG BANG",
+      "artist": "Bigbang",
+      "has_synced": false,
+      "path": "select/pl_01_BANG_BANG_BANG_Bigbang.txt"
+    }
+  ]
+}
